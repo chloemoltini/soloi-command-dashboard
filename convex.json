@@ -1,0 +1,6 @@
+{
+  "node": "20",
+  "generateCommonJsApi": true,
+  "deployment": "quixotic-sheep-608.eu-west-1",
+  "project": "soloi-command-dashboard"
+}
